@@ -6,9 +6,8 @@ Aplikasi web untuk melihat jadwal kuliah, mendapat pengingat sebelum kelas dimul
 
 🔗 **Demo:** `https://rafly-ramadhan-dev.github.io/pengingat-kuliah/`
 
-<!-- Tambahkan screenshot di sini, misalnya:
-![Tampilan jadwal](screenshots/jadwal.png)
--->
+   ![Tampilan jadwal](jadwal.png)
+   ![Pengaturan dan tema](pengaturan.png)
 
 ## ✨ Fitur
 
